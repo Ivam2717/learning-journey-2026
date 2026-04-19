@@ -1,0 +1,51 @@
+# Compiled binaries
+*.o
+*.exe
+*.out
+*.app
+*.so
+*.dylib
+
+# C++ specific
+*.a
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Node.js
+node_modules/
+npm-debug.log
+.env
+.env.local
+
+# Java
+*.class
+*.jar
+*.log
+target/
+.classpath
+.project
+.settings/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
